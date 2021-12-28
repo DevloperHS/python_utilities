@@ -1,7 +1,7 @@
 This script is a utility to download [Mozilla Common Voice Dataset](https://commonvoice.mozilla.org/en/datasets). It handles everthing from downloading to creating manifest files.
 Particularly useful for creating files for nemo_models
 
-Attention ! - Requires sox with mp3 support : Install as : 
+Attention ! - Requires sox with mp3 support : Install as : `sudo apt-get install libsox-fmt-mp3`
 
 Usage: 
 Open cmd and navigated to script folder using `cd script_folder` and enter: 
